@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+    color: black;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.Titulo_principal{
+    font-size: 30px;
+}
+
+.titulos{
+    font-size: 25px;
+    color: orange;
+}
+
+nav{
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
+
+div{
+    text-align: center;
+}
